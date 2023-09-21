@@ -1,0 +1,20 @@
+C:\Users\Рома\Desktop\Body_mass_index_Calculator\bin\Debug\Body_mass_index_Calculator.exe.config
+C:\Users\Рома\Desktop\Body_mass_index_Calculator\bin\Debug\Body_mass_index_Calculator.exe
+C:\Users\Рома\Desktop\Body_mass_index_Calculator\bin\Debug\Body_mass_index_Calculator.pdb
+C:\Users\Рома\Desktop\Body_mass_index_Calculator\obj\Debug\Body_mass_index_Calculator.csproj.AssemblyReference.cache
+C:\Users\Рома\Desktop\Body_mass_index_Calculator\obj\Debug\Body_mass_index_Calculator.Form1.resources
+C:\Users\Рома\Desktop\Body_mass_index_Calculator\obj\Debug\Body_mass_index_Calculator.Properties.Resources.resources
+C:\Users\Рома\Desktop\Body_mass_index_Calculator\obj\Debug\Body_mass_index_Calculator.csproj.GenerateResource.cache
+C:\Users\Рома\Desktop\Body_mass_index_Calculator\obj\Debug\Body_mass_index_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Рома\Desktop\Body_mass_index_Calculator\obj\Debug\Body_mass_index_Calculator.exe
+C:\Users\Рома\Desktop\Body_mass_index_Calculator\obj\Debug\Body_mass_index_Calculator.pdb
+\\SAN-MNG-1\Students\ДТ\Т-123901-НТ-ИСТ\Vostrikov-RA\Технология разработки ПО\Body_mass_index_Calculator\bin\Debug\Body_mass_index_Calculator.exe.config
+\\SAN-MNG-1\Students\ДТ\Т-123901-НТ-ИСТ\Vostrikov-RA\Технология разработки ПО\Body_mass_index_Calculator\bin\Debug\Body_mass_index_Calculator.exe
+\\SAN-MNG-1\Students\ДТ\Т-123901-НТ-ИСТ\Vostrikov-RA\Технология разработки ПО\Body_mass_index_Calculator\bin\Debug\Body_mass_index_Calculator.pdb
+\\SAN-MNG-1\Students\ДТ\Т-123901-НТ-ИСТ\Vostrikov-RA\Технология разработки ПО\Body_mass_index_Calculator\obj\Debug\Body_mass_index_Calculator.csproj.AssemblyReference.cache
+\\SAN-MNG-1\Students\ДТ\Т-123901-НТ-ИСТ\Vostrikov-RA\Технология разработки ПО\Body_mass_index_Calculator\obj\Debug\Body_mass_index_Calculator.Form1.resources
+\\SAN-MNG-1\Students\ДТ\Т-123901-НТ-ИСТ\Vostrikov-RA\Технология разработки ПО\Body_mass_index_Calculator\obj\Debug\Body_mass_index_Calculator.Properties.Resources.resources
+\\SAN-MNG-1\Students\ДТ\Т-123901-НТ-ИСТ\Vostrikov-RA\Технология разработки ПО\Body_mass_index_Calculator\obj\Debug\Body_mass_index_Calculator.csproj.GenerateResource.cache
+\\SAN-MNG-1\Students\ДТ\Т-123901-НТ-ИСТ\Vostrikov-RA\Технология разработки ПО\Body_mass_index_Calculator\obj\Debug\Body_mass_index_Calculator.csproj.CoreCompileInputs.cache
+\\SAN-MNG-1\Students\ДТ\Т-123901-НТ-ИСТ\Vostrikov-RA\Технология разработки ПО\Body_mass_index_Calculator\obj\Debug\Body_mass_index_Calculator.exe
+\\SAN-MNG-1\Students\ДТ\Т-123901-НТ-ИСТ\Vostrikov-RA\Технология разработки ПО\Body_mass_index_Calculator\obj\Debug\Body_mass_index_Calculator.pdb
